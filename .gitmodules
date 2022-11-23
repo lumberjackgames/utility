@@ -1,0 +1,12 @@
+[submodule "crafting_bench"]
+	path = crafting_bench
+	url = https://github.com/minetest-mods/crafting_bench
+[submodule "replacer"]
+	path = replacer
+	url = https://github.com/kakalak-lumberJack/replacer
+[submodule "moreblocks"]
+	path = moreblocks
+	url = https://github.com/minetest-mods/moreblocks
+[submodule "mobs_redo"]
+	path = mobs_redo
+	url = https://notabug.org/TenPlus1/mobs_redo
